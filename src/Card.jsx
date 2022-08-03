@@ -2,17 +2,25 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div className='flex justify-center transform translate-y-48 '>
-<div class="block hover:animate-spin transform scale-90 duration-500  p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-2xl ">
-   
-    <p class="font-normal text-gray-700 dark:text-gray-400"><span className='text-3xl font-bold'>"</span>Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chrp
-    Geniuses are born not made by albert enstiiig sdjjs sjdddddd<span className='text-3xl font-bold'>"</span></p>
-    
-    <h3 className='font-bold '>By: Oded Phantom</h3>
-     </div>
-    </div>
+    <div>
+<div className="user-card-container1">
+  <div className="property1Default2">
+<p className="text1">
+Hello everyone! This card was generated using FireJet🔥. You can check out the code output on the left or top. Hope this Figma plugin is useful for you!</p>
+<div className="userDetails1">
 
+
+<div className="userDetailsText1">
+<p className="userName1">Philip Wee</p>
+<p className="userJob1">Co-Founder, FireJet</p>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
   )
 }
 
 export default Card
+
