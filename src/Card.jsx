@@ -3,10 +3,10 @@ import React from 'react'
 const Card = () => {
   return (
     <div>
-<div className="user-card-container1">
+<div className="">
   <div className="property1Default2">
 <p className="text1">
-Hello everyone! This card was generated using FireJet🔥. You can check out the code output on the left or top. Hope this Figma plugin is useful for you!</p>
+Hello everyoneck out the code output on the left or top. Hope this Figma plugin is useful for you!</p>
 <div className="userDetails1">
 
 
