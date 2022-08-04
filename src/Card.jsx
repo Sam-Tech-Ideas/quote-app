@@ -6,7 +6,7 @@ const Card = () => {
 <div className="">
   <div className="property1Default2">
 <p className="text1">
-Hello everyoneck out the code output on the left or top. Hope this Figma plugin is useful for you!</p>
+Hello eve Hope this Figma plugin is useful for you!</p>
 <div className="userDetails1">
 
 
