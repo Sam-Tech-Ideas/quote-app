@@ -11,7 +11,7 @@ Hor you!</p>
 
 
 <div className="userDetailsText1">
-<p className="userName1">Philip Wee</p>
+<p className="userName1">Philip Wee  hjubhusdbgfiu dsiubgfsidfigj siheb feriubger</p>
 <p className="userJob1">Co-Founder, FireJet</p>
 </div>
 </div>
