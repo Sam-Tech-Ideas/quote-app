@@ -26,7 +26,7 @@ const Card = () => {
 
             <p className="p-2" >Author: {quotes.author}</p>
 
-               <button onClick={getQuote} className=' hover:bg-blue-700  hover:text-blue-300 bg-blue-500 rounded-xl ml-2 py-1 px-3'>Share
+               <button onClick={getQuote} className=' hover:bg-blue-700  hover:text-blue-300 bg-blue-500 rounded-xl ml-2 py-1 px-3'>Get quote
                 </button>
                <a href={`https://twitter.com/intent/tweet?text=${quotes.text}`} 
                target="_blank" rel="noopener noreferrer">
